@@ -6,7 +6,7 @@
 # Using Langage
 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=Csharp&logoColor=black">
-<img src="https://img.shields.io/badge/C language-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
+<img src="https://img.shields.io/badge/C language-6FCBFF?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-4479A1?style=for-the-badge&logo=javascript&logoColor=yellow">
