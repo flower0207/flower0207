@@ -1,7 +1,7 @@
 💻 Baekjoon
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juchan_05)](https://solved.ac/juchan_05)
-<img src="http://mazandi.herokuapp.com/api?handle=juchan_05&theme=warm"/>
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaejun0207)](https://solved.ac/chaejun0207)
+<img src="http://mazandi.herokuapp.com/api?handle=chaejun0207&theme=warm"/>
 <br/>
 
 
