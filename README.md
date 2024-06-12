@@ -1,8 +1,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-<a href="https://www.instagram.com/c_j277/" target="_blank"><img src="https://img.shields.io/badge/?style=&logo=instagram&logoColor=#E4405F"/></a>
-<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?flower0207=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 **flower0207/flower0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
