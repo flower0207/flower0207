@@ -1,11 +1,11 @@
-💻 Baekjoon
+#💻 Baekjoon
 <br/>
 [![Solved.ac
 /chaejun0207](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaejun0207)
 ](https://solved.ac/chaejun0207)
 <br/>
 
-Using Langage
+# Using Langage
 <img src="http://mazandi.herokuapp.com/api?handle=chaejun0207&theme=warm"/>
 <br/>
 <img src="https://img.shields.io/badge/C language-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
