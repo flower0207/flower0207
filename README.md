@@ -1,6 +1,6 @@
 💻 Baekjoon
 <br/>
-[![Solved.ac/chaejun0207](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaejun0207)](https://solved.ac/chaejun0207)
+[![Solved.ac/chaejun0207](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaejun0207)]</br>(https://solved.ac/chaejun0207)
 <br/>
 Using Langage
 <img src="http://mazandi.herokuapp.com/api?handle=chaejun0207&theme=warm"/>
