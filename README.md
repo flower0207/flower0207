@@ -8,8 +8,14 @@ I want to continue developing games using Unity and create fun games.
 # 📝In Development Projects
 
 ### 💭 몽환적인 분위기의 3D 시물레이션 게임
+> 제목 : 몽환[夢幻]
+> 개발 기간 : 1개월 ~~
+> 특징 : 몽환적인 분위기의 취향이 게임이시라면 좋아하실 것 같은 게임입니다.
 
-### 👻 스토리형식 공포게임
+### 👻 스토리형식(Love and Horror) 공포게임
+> 제목 : 미정()
+> 개발기간 : 2개월 ~~
+> 특징 : 아직 대략적인 틀이 안잡혀서 손을 못대고 있는 게임입니다.
 
 
 # 🖱️completed project
