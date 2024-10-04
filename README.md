@@ -5,7 +5,7 @@
 >I am a person who enjoys small game development and studies to create better games. <br/>
 I want to continue developing games using Unity and create fun games.
 
-# 📝In Development Projects
+# 🕹️ In Development Projects
 
 ### 💭 몽환적인 분위기의 3D 시물레이션 게임
 > 제목 : 몽환[夢幻] <br/>
@@ -18,7 +18,7 @@ I want to continue developing games using Unity and create fun games.
 > 특징 : 아직 대략적인 틀이 안잡혀서 손을 못대고 있는 게임입니다. <br/>
 
 
-# 🖱️completed project
+# 🖱️ Completed project
 
 ### 🌳 2D platformer game 
 > 제목 : The Forest Treveler <br/>
