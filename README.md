@@ -19,7 +19,7 @@ I want to continue developing games using Unity and create fun games.
 # 🏠 Wep Project
 
 ### 🐈‍⬛ POP CAT  
-### [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram] Profile Introduction Wep
+### [<img align="left" alt="SOKURI_CODE | Instagram" width="24px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />] Profile Introduction Wep
 
 # Baekjoon
 [![Solved.ac/flower0207](http://mazassumnida.wtf/api/v2/generate_badge?boj=flower0207)](https://solved.ac/flower0207)
