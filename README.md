@@ -41,11 +41,11 @@ img img img img img img img img
 <br/>
 # Using Langage
 
-<img src="https://img.shields.io/badge/c%23-B829FF?style=for-the-badge&logo=Csharp&logoColor=white">
-<img src="https://img.shields.io/badge/C language-6FCBFF?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-FFF66F?style=for-the-badge&logo=javascript&logoColor=yellow">
+<img src="https://img.shields.io/badge/c%23-B829FF?style=for-the-badge&logo=Csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C language-6FCBFF?style=for-the-badge&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/javascript-FFF66F?style=for-the-badge&logo=javascript&logoColor=yellow"/>
 
 # Using Tool
 
