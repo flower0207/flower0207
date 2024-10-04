@@ -24,6 +24,7 @@ img img img img img img img img
 # 🏠 Wep Project
 
 ### 🐈‍⬛ POP CAT  
+<img width="959" alt="스크린샷 2024-10-04 205339" src="https://github.com/user-attachments/assets/2ac8f67a-bc42-4b50-93af-5144d2c53670">
 
 ### <img align="left" alt="SOKURI_CODE | Instagram" width="24px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /> Profile Introduction Wep
 
