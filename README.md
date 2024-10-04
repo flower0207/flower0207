@@ -1,7 +1,7 @@
 # ⌨️ My Profile
 
-소소하게 게임 개발을 즐기며 더 나은 게임을 만들기위해 공부하는 사람입니다.
-유니티를 이용해 게임 개발을 계속해 나가며 재밌는 게임을 만들고 싶습니다.
+소소하게 게임 개발을 즐기며 더 나은 게임을 만들기위해 공부하는 사람입니다. <br/>
+유니티를 이용해 게임 개발을 계속해 나가며 재밌는 게임을 만들고 싶습니다. <br/>
 >I am a person who enjoys small game development and studies to create better games.
 I want to continue developing games using Unity and create fun games.
 
@@ -15,9 +15,9 @@ I want to continue developing games using Unity and create fun games.
 # 🖱️completed project
 
 ### 🌳 2D platformer game 
-> 제목 : The Forest Treveler
-> 개발기간 : 3개월 ~ 5개월
-> 특징 : 처음만든 게임이라 아직 미완성도가 있는 게임입니다.
+> 제목 : The Forest Treveler <br/>
+> 개발기간 : 3개월 ~ 5개월 <br/>
+> 특징 : 처음만든 게임이라 아직 미완성도가 있는 게임입니다. <br/>
 
 img img img img img img img img
 
