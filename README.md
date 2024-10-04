@@ -1,6 +1,6 @@
 # ⌨️ My Profile
 
-소소하게 게임 개발을 즐기며 더 나은 게임을 만들기위해 공부하는 이채준 입니다.
+소소하게 게임 개발을 즐기며 더 나은 게임을 만들기위해 공부하는 사람입니다.
 유니티를 이용해 게임 개발을 계속해 나가며 재밌는 게임을 만들고 싶습니다.
 >I am Chaejun Lee, who enjoys a little game development and studies to make better games.
 I want to continue developing games using Unity and create fun games.
@@ -14,6 +14,12 @@ I want to continue developing games using Unity and create fun games.
 
 ### 🌳 2D platformer game
 
+
+
+# 🏠 Wep Project
+
+### 🐈‍⬛ POP CAT  
+### [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram] Profile Introduction Wep
 
 # Baekjoon
 [![Solved.ac/flower0207](http://mazassumnida.wtf/api/v2/generate_badge?boj=flower0207)](https://solved.ac/flower0207)
