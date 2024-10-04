@@ -7,8 +7,8 @@ I want to continue developing games using Unity and create fun games.
 
 # 📝In Development Projects
 
-### 몽환적인 분위기의 3D 시물레이션 게임
-### 스토리형식 게임
+### 💭몽환적인 분위기의 3D 시물레이션 게임
+### 💬스토리형식 게임
 
 # 🖱️completed project
 
