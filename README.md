@@ -2,7 +2,7 @@
 
 소소하게 게임 개발을 즐기며 더 나은 게임을 만들기위해 공부하는 사람입니다.
 유니티를 이용해 게임 개발을 계속해 나가며 재밌는 게임을 만들고 싶습니다.
->I am Chaejun Lee, who enjoys a little game development and studies to make better games.
+>I am a person who enjoys small game development and studies to create better games.
 I want to continue developing games using Unity and create fun games.
 
 # 📝In Development Projects
