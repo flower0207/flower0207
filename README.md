@@ -25,7 +25,7 @@ I want to continue developing games using Unity and create fun games.
 > 개발기간 : 3개월 ~ 5개월 <br/>
 > 특징 : 처음만든 게임이라 아직 미완성도가 있는 게임입니다. <br/>
 
-img img img img img img img img
+<img width="419" alt="asd" src="https://github.com/user-attachments/assets/4cf8f90a-04b2-4c72-85b1-b2e2a49c12a7">
 
 # 🏠 Wep Project
 
