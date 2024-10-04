@@ -7,16 +7,19 @@ I want to continue developing games using Unity and create fun games.
 
 # 📝In Development Projects
 
-### 💭몽환적인 분위기의 3D 시물레이션 게임
+### 💭 몽환적인 분위기의 3D 시물레이션 게임
 
-### 💬스토리형식 게임
+### 👻 스토리형식 공포게임
 
 
 # 🖱️completed project
 
-### 🌳 2D platformer game
+### 🌳 2D platformer game 
+> 제목 : The Forest Treveler
+> 개발기간 : 3개월 ~ 5개월
+> 특징 : 처음만든 게임이라 아직 미완성도가 있는 게임입니다.
 
-
+img img img img img img img img
 
 # 🏠 Wep Project
 
